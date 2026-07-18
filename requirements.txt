@@ -2,5 +2,10 @@ streamlit
 numpy
 pandas
 nltk
-sklearn
 scikit-learn
+joblib
+matplotlib
+seaborn
+shap
+transformers
+torch
